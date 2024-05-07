@@ -1,5 +1,4 @@
 # 42_minishell
-!! Add folder libft to run
 
 # Lexer 
 Makes list of tokens from the prompt  
